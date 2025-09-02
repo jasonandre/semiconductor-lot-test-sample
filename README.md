@@ -70,15 +70,26 @@ analyze post thickness which is measered after some test
 <img width="702" height="545" alt="image" src="https://github.com/user-attachments/assets/a13e41a2-7533-4c89-9cd5-954e5ce69723" />
 
 
-#그룹별 통계치
-                   mean        std  count
-Etch test 적용 이력                          
-test1            4685.4   26.101724      5
-test2            4929.4   19.705329      5
+#그룹별 통계치  
+- test1
+   mean  = 4685.4
+  
+   std   = 26.101724
+  
+   count = 5
+
+- test2           
+   mean  = 4929.4
+  
+   std   = 19.705329
+  
+   count = 5
 
 
 #t-test 결과:
+
 t=-16.683, p=0.0000
+
 결론: 두 테스트 그룹간의 유의미한 차이가 존재
 
 
