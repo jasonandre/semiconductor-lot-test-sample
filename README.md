@@ -92,19 +92,9 @@ t=-16.683, p=0.0000
 
 5. 챔버별 통계
    
-(1) 상자그림
+(1) 상자그림 & 주효과도
 
-  
-  <img width="702" height="545" alt="image" src="https://github.com/user-attachments/assets/d1b0e6ea-4c9f-46f4-8f4b-da8322f04ce2" />
-
-
-
-
-(2) 주효과도
-
-
-  <img width="702" height="468" alt="image" src="https://github.com/user-attachments/assets/264ad424-cf40-4eca-9bf5-dc203a8b6a31" />
-
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/1fe40ba9-3d34-4071-9565-8ef0e7d17fa1" />
 
 
 
