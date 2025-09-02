@@ -26,6 +26,8 @@ analyze post thickness which is measered after some test
 
 
 3. I-MR 관리도
+   *슈하트 규칙 적용
+   
 1) dressing step 2초 하향 적용
   <img width="1169" height="564" alt="image" src="https://github.com/user-attachments/assets/fa41cfa5-108c-421a-82fb-8ad8e0541db7" />
 
@@ -33,7 +35,9 @@ analyze post thickness which is measered after some test
   <img width="1160" height="564" alt="image" src="https://github.com/user-attachments/assets/19b1aa6a-241b-4b79-8170-81eb99499d53" />
 
 
-
+ - #3 (Value=5455): Rule 1: Beyond control limit
+ - #9 (Value=5411): Rule 1: Beyond control limit
+   
 2) dressing step 4초 하향 적용
   <img width="1169" height="564" alt="image" src="https://github.com/user-attachments/assets/d98f80f0-054f-4c6f-9d24-c1447b40ca0d" />
 
@@ -41,3 +45,4 @@ analyze post thickness which is measered after some test
   <img width="1160" height="564" alt="image" src="https://github.com/user-attachments/assets/b353bad0-561d-4f26-a17b-44bbd2262fbd" />
 
 
+ - #21 (Value=5477): Rule 1: Beyond control limit
