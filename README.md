@@ -1,10 +1,11 @@
 # semiconductor-lot-test-sample
 analyze post thickness which is measered after some test
 
-1. data :25 lot data
-*column name : S Lot	/ Post Thickness(A) /	dressing step sec /	Etch Si RIE /	Chamber	/ Etch test 적용 이력	/ CVD test 적용 이력
+1. 데이터
+- data : 25 lot ( etch 테스트 2개, CVD 테스트 3개, CMP 테스트 2개 적용 이력 존재 )
+- column name : S Lot	/ Post Thickness(A) /	dressing step sec /	Etch Si RIE /	Chamber	/ Etch test 적용 이력	/ CVD test 적용 이력
 
-2. 공정능력지수
+3. 공정능력지수
  - dressing step 시간 단축 테스트 적용된 CMP 공정의 post thickness 데이터
  - CMP 공정능력
     Mean=5154.48, Std=180.84
