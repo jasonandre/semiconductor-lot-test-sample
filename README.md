@@ -111,3 +111,27 @@ t=-16.683, p=0.0000
 
 결론: CVD 챔버 C의 이상으로 박막 두께가 지나치게 두꺼워지는 현상이 있었음을 발견
 
+
+
+#CMP post thickness 데이터 기반으로 CVD 테스트 이력 분석의 타당성 검증  
+
+CMP 공정의 post thickness 데이터로 CVD 공정테스트 이력을 분석하는 것은 적절하지 않을 수 있다. 따라서 dressing step 별로 전체 데이터를 나누고, 그 안에서 챔버 A,B,C의 상자그림, 주효과도를 분석해 보았다.
+
+(1) dressing step 2초 하향 
+
+<img width="1189" height="495" alt="image" src="https://github.com/user-attachments/assets/8e99f71a-a002-4388-a88c-1b885d8119f9" />
+
+
+
+
+(2) dressing step 4초 하향
+
+<img width="1189" height="495" alt="image" src="https://github.com/user-attachments/assets/fb0ae2a7-c796-433f-9737-03b62ed4f683" />
+
+
+
+
+결론 : 그래프 양상이 비슷하고, 2가지 테스트 모두 C챔버가 상한을 벗어나는 것이 확인된다. CMP 공정의 효과보다도 CVD 챔버의 영향이 크다는 것을 확인할 수 있다. 
+
+
+
