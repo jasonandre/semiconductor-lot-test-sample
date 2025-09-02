@@ -1,5 +1,7 @@
-# semiconductor-lot-test-sample
-analyze post thickness which is measered after some test
+# Analysis of Semiconductor Lot Post CMP Thickness: CVD Chamber & Etch Test Effects
+
+- “Analyzing Post CMP thickness across 25 semiconductor lots, focusing on the effects of CVD chamber and Etch test on thickness variation. Includes boxplots, main effect plots, and specification limits.”
+- 25개 반도체 로트의 CMP 이후 Post Thickness를 분석하며, CVD 챔버와 Etch 테스트가 두께 변동에 미치는 영향을 평가합니다. Boxplot, Main Effect Plot, 규격선 포함.
 
 # 1. 데이터
 - data : 25 lot ( etch 테스트 2개, CVD 테스트 3개, CMP 테스트 2개 적용 이력 존재 )
