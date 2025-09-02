@@ -72,19 +72,14 @@ analyze post thickness which is measered after some test
 
 #그룹별 통계치  
 - test1
-   mean  = 4685.4
-  
-   std   = 26.101724
-  
-   count = 5
+  - mean  = 4685.4
+  - std   = 26.101724
+  - count = 5
 
 - test2           
-   mean  = 4929.4
-  
-   std   = 19.705329
-  
-   count = 5
-
+  - mean  = 4929.4
+  - std   = 19.705329
+  - count = 5
 
 #t-test 결과:
 
