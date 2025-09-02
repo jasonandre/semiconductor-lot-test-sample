@@ -38,7 +38,7 @@ analyze post thickness which is measered after some test
 3. I-MR 관리도
    *슈하트 규칙 적용
    
-1) dressing step 2초 하향 적용
+(1) dressing step 2초 하향 적용
   <img width="1169" height="564" alt="image" src="https://github.com/user-attachments/assets/fa41cfa5-108c-421a-82fb-8ad8e0541db7" />
 
 
@@ -49,7 +49,7 @@ analyze post thickness which is measered after some test
  - #9 (Value=5411): Rule 1: Beyond control limit
 
    
-2) dressing step 4초 하향 적용
+(2) dressing step 4초 하향 적용
   <img width="1169" height="564" alt="image" src="https://github.com/user-attachments/assets/d98f80f0-054f-4c6f-9d24-c1447b40ca0d" />
 
 
@@ -57,6 +57,31 @@ analyze post thickness which is measered after some test
 
 
  - #21 (Value=5477): Rule 1: Beyond control limit
+
+
+
+4. Etch  테스트 적용 이력
+
+- 각 테스트 별 구간 그림
+  
+<img width="857" height="544" alt="image" src="https://github.com/user-attachments/assets/98caff69-419a-4a99-a735-be98626daa1b" />
+
+
+<img width="702" height="545" alt="image" src="https://github.com/user-attachments/assets/a13e41a2-7533-4c89-9cd5-954e5ce69723" />
+
+
+#그룹별 통계치
+                   mean        std  count
+Etch test 적용 이력                          
+test1            4685.4   26.101724      5
+test2            4929.4   19.705329      5
+
+
+#t-test 결과:
+t=-16.683, p=0.0000
+결론: 두 테스트 그룹간의 유의미한 차이가 존재
+
+
 
 
 
