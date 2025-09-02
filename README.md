@@ -5,10 +5,12 @@ analyze post thickness which is measered after some test
 - data : 25 lot ( etch 테스트 2개, CVD 테스트 3개, CMP 테스트 2개 적용 이력 존재 )
 - column name : S Lot	/ Post Thickness(A) /	dressing step sec /	Etch Si RIE /	Chamber	/ Etch test 적용 이력	/ CVD test 적용 이력
 
-3. 공정능력지수
+2. 공정능력지수
  - dressing step 시간 단축 테스트 적용된 CMP 공정의 post thickness 데이터
  - CMP 공정능력
+
     Mean=5154.48, Std=180.84
+
     Cp=0.737, Cpk=0.453
    
 <img width="869" height="564" alt="image" src="https://github.com/user-attachments/assets/77c26129-736b-42d2-90b2-b3b68ccaca36" />
@@ -18,7 +20,9 @@ analyze post thickness which is measered after some test
 
  - Etch Si RIE post thickness 데이터
  - Etch 공정능력
+ 
     Mean=4798.16, Std=85.73
+
     Cp=1.555, Cpk=0.771
 
 <img width="861" height="563" alt="image" src="https://github.com/user-attachments/assets/42b00787-c313-45c1-8928-291e2227c6cd" />
