@@ -5,6 +5,8 @@ analyze post thickness which is measered after some test
 - data : 25 lot ( etch 테스트 2개, CVD 테스트 3개, CMP 테스트 2개 적용 이력 존재 )
 - column name : S Lot	/ Post Thickness(A) /	dressing step sec /	Etch Si RIE /	Chamber	/ Etch test 적용 이력	/ CVD test 적용 이력
 
+
+
 2. 공정능력지수
  - dressing step 시간 단축 테스트 적용된 CMP 공정의 post thickness 데이터
  - CMP 공정능력
@@ -30,6 +32,9 @@ analyze post thickness which is measered after some test
 
 
 
+
+
+
 3. I-MR 관리도
    *슈하트 규칙 적용
    
@@ -42,6 +47,7 @@ analyze post thickness which is measered after some test
 
  - #3 (Value=5455): Rule 1: Beyond control limit
  - #9 (Value=5411): Rule 1: Beyond control limit
+
    
 2) dressing step 4초 하향 적용
   <img width="1169" height="564" alt="image" src="https://github.com/user-attachments/assets/d98f80f0-054f-4c6f-9d24-c1447b40ca0d" />
@@ -51,3 +57,6 @@ analyze post thickness which is measered after some test
 
 
  - #21 (Value=5477): Rule 1: Beyond control limit
+
+
+
