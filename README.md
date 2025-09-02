@@ -1,13 +1,13 @@
 # semiconductor-lot-test-sample
 analyze post thickness which is measered after some test
 
-1. 데이터
+# 1. 데이터
 - data : 25 lot ( etch 테스트 2개, CVD 테스트 3개, CMP 테스트 2개 적용 이력 존재 )
 - column name : S Lot	/ Post Thickness(A) /	dressing step sec /	Etch Si RIE /	Chamber	/ Etch test 적용 이력	/ CVD test 적용 이력
 
 
 
-2. 공정능력지수
+# 2. 공정능력지수
  - dressing step 시간 단축 테스트 적용된 CMP 공정의 post thickness 데이터
  - CMP 공정능력
 
@@ -35,7 +35,7 @@ analyze post thickness which is measered after some test
 
 
 
-3. I-MR 관리도
+# 3. I-MR 관리도
    *슈하트 규칙 적용
    
 (1) dressing step 2초 하향 적용
@@ -60,7 +60,7 @@ analyze post thickness which is measered after some test
 
 
 
-4. Etch  테스트 적용 이력
+# 4. Etch  테스트 적용 이력
 
 - 각 테스트 별 구간 그림
   
@@ -89,11 +89,7 @@ t=-16.683, p=0.0000
 
 
 
-
-
-
-
-5. 챔버별 통계
+# 5. 챔버별 통계
    
 (1) 상자그림 & 주효과도
 
@@ -106,7 +102,7 @@ t=-16.683, p=0.0000
 
 
 
-#CMP post thickness 데이터 기반으로 CVD 테스트 이력 분석의 타당성 검증  
+# CMP post thickness 데이터 기반 CVD 테스트 이력 분석의 타당성 검증  
 
 CMP 공정의 post thickness 데이터로 CVD 공정테스트 이력을 분석하는 것은 적절하지 않을 수 있다. 따라서 dressing step 별로 전체 데이터를 나누고, 그 안에서 챔버 A,B,C의 상자그림, 주효과도를 분석해 보았다.
 
