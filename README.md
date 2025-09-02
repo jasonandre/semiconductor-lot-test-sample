@@ -85,7 +85,7 @@ analyze post thickness which is measered after some test
 
 t=-16.683, p=0.0000
 
-결론: 두 테스트 그룹간의 유의미한 차이가 존재
+결론: 각각 적용된 테스트의 결과가 유의하다, 두 그룹간 차이가 존재
 
 
 
