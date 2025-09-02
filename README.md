@@ -60,7 +60,7 @@ analyze post thickness which is measered after some test
 
 
 
-# 4. Etch  테스트 적용 이력
+# 4. Etch  테스트 적용 이력 분석
 
 - 각 테스트 별 구간 그림
   
@@ -89,7 +89,7 @@ t=-16.683, p=0.0000
 
 
 
-# 5. 챔버별 통계
+# 5. CVD 챔버별 통계 분석
    
 (1) 상자그림 & 주효과도
 
